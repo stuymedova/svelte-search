@@ -14,7 +14,7 @@
   ];
 </script>
 
-<Search dataset={dataset} let:filteredDataset>
+<Search autofocus={true} dataset={dataset} let:filteredDataset>
   <div>
     {#each filteredDataset as datasetItem}
       <div>{datasetItem}</div>
