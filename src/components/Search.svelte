@@ -21,7 +21,7 @@
 <input bind:this={input} placeholder='Search' type='search' bind:value={inputValue} />
 
 <!-- Can be overwritten by the consumer -->
-<slot {filteredDataset}>
+<slot filteredDataset={filteredDataset}>
   <ul>
     {#each filteredDataset as datasetItem}
       <li>{datasetItem}</li>
