@@ -33,4 +33,8 @@
   ul {
     list-style: none;
   }
+  
+  input {
+    margin-bottom: 1rem;
+  }
 </style>
