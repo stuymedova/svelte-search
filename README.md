@@ -10,12 +10,18 @@ Svelte app with a simple Search Component that filters an array of strings.
     │   └── Search.svelte
     └── App.svelte
 ```
+
+## Prerequisites
+
+[Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/)
+
 ## Setup
 
 Run in terminal:
 ```
-npm i
-npm run dev/build
+npm install
+npm run dev
+npm run build
 ```
 
 ## Result
