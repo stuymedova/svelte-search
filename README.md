@@ -22,8 +22,8 @@ npm run dev/build
 
 1. Empty query
 
-<img width="1440" alt="svelte-search" src="https://user-images.githubusercontent.com/53351370/121775525-eacd8a00-cb90-11eb-8c42-6b410d3f2210.png">
+<img width="1552" alt="svelte-search" src="https://user-images.githubusercontent.com/53351370/121805330-8aebe780-cc53-11eb-98d1-c82ef7680549.png">
 
 2. Query "Cloud"
 
-<img width="1440" alt="svelte-search-query" src="https://user-images.githubusercontent.com/53351370/121775527-ec974d80-cb90-11eb-8681-bd53fffd361d.png">
+<img width="1552" alt="svelte-search-query" src="https://user-images.githubusercontent.com/53351370/121805334-8d4e4180-cc53-11eb-9ae9-ba8a005551c7.png">
